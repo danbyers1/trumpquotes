@@ -32,3 +32,9 @@ button{
 p{
 	font-family: 'Anton', sans-serif !important;
 }
+
+#serviceDef{
+  text-align: center !important;
+  color:black;
+  font-size: 20px;
+}
